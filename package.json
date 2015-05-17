@@ -1,10 +1,10 @@
 {
   "name": "ng-kbd",
   "version": "0.0.1",
-  "description": "Add $kbd for every controller",
+  "description": "Mousetrap wrapper for angular.js to handling keyboard shortcuts in scope.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/karma/bin/karma start"
   },
   "keywords": [
     "angular.js",
