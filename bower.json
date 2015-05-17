@@ -1,0 +1,25 @@
+{
+  "name": "ng-kbd",
+  "version": "0.0.1",
+  "authors": [
+    "c4605 <bolasblack@gmail.com>"
+  ],
+  "description": "Mousetrap wrapper for angular.js to handling keyboard shortcuts in scope.",
+  "main": "lib/index.js",
+  "keywords": [
+    "Mousetrap",
+    "angular.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bolasblack/ng-kbd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mousetrap": "bolasblack/mousetrap#add-destroy-method"
+  }
+}
